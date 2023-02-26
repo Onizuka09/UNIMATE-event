@@ -3,4 +3,4 @@ This repository contains the presentation and code that was presented during the
 
 ##RC robot car: 
 
-![image]('robot image'/robots.png) 
+![image](robot_image/robots.png) 
